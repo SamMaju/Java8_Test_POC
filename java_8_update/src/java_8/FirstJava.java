@@ -6,6 +6,8 @@ import FunctionalInterface.Inter3;
 import FunctionalInterface.Inter4;
 import FunctionalInterface.Inter5;
 
+// Used Inter1,Inter2,Inter3,Inter4,Inter5
+
 public class FirstJava {
 
 	public static void main(String[] args) {
